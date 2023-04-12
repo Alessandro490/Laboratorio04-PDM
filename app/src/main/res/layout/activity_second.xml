@@ -69,6 +69,7 @@
         app:layout_constraintGuide_percent="0.35" />
 
     <Button
+        android:id="@+id/ShareBUtton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/medium_gap"
