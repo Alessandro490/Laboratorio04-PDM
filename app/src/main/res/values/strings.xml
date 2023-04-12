@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio04Rodriguez</string>
+    <string name="info_text_view">Rellena la siguiente información</string>
+    <string name="name_text_edit_text">nombre</string>
+    <string name="email_text_edit_text">Correo electrónico</string>
+    <string name="guardar_text_button">Guardar</string>
+    <string name="number_text_edit_text">Número de teléfono</string>
+    <string name="show_name_text_view">Nombre:</string>
+    <string name="confirmation_text_view">Confirma tu información</string>
+</resources>
